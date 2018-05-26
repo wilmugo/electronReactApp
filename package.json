@@ -1,0 +1,25 @@
+{
+  "name": "electron-react-app",
+  "version": "1.0.0",
+  "description": "Desktop app for debts control",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilmugo/electronReactApp.git"
+  },
+  "keywords": [
+    "electron",
+    "react",
+    "webpack",
+    "materializecss"
+  ],
+  "author": "Wilfredo Murillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wilmugo/electronReactApp/issues"
+  },
+  "homepage": "https://github.com/wilmugo/electronReactApp#readme"
+}
